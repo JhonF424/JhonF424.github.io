@@ -5,3 +5,5 @@ AOS.init({
 });
 
 // Add your javascript here
+
+console.log("Testing")
